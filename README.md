@@ -33,8 +33,6 @@ I build things that make **large language models actually useful** — currently
 | sms-spam-classifier *(coming soon)* | SMS spam/ham classification built from scratch — custom word2sequence + a fully-connected network.<br>*从零实现的短信垃圾分类：自研词序列化表示 + 全连接网络。* | `PyTorch` `Jieba` |
 | license-plate-recognition *(coming soon)* | Traditional CV pipeline: CLAHE enhancement, HSV-based plate localization, character segmentation, template matching.<br>*传统 CV 流程：CLAHE 增强、基于 HSV 的车牌定位、字符分割、模板匹配。* | `OpenCV` |
 
-> 💡 Tip: replace "coming soon" with the real link once you push those repos.
-> 提示：把这几个项目推上 GitHub 后，把 "(coming soon)" 换成真实链接即可。
 
 ---
 
